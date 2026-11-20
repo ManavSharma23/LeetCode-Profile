@@ -1,4 +1,4 @@
-# LeetCode-Profile
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
