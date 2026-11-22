@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
