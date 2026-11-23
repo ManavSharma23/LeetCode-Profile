@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0088-merge-sorted-array) |
+| [1122-relative-sort-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1122-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0001-two-sum) |
+| [1122-relative-sort-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +24,17 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0088-merge-sorted-array) |
+| [1122-relative-sort-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
