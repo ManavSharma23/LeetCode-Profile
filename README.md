@@ -25,6 +25,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0088-merge-sorted-array) |
 | [1122-relative-sort-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -37,4 +38,9 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1859-sorting-the-sentence) |
+## String
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
