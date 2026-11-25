@@ -47,4 +47,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
