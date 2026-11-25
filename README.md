@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/1859-sorting-the-sentence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ManavSharma23/LeetCode-Profile/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
